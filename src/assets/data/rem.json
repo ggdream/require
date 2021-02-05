@@ -1,5 +1,5 @@
 {
-    "date": "2020-02-2 00:46",
+    "date": "2020-02-05 15:14",
     "titles": [
         "图标",
         "名称",
@@ -78,7 +78,7 @@
             "name": "Java",
             "type": "编程语言",
             "platform": "bilibili",
-            "url": "https://www.bilibili.com/video/BV1Ak4y1o7y8",
+            "url": "https://www.bilibili.com/video/BV1fh411y7R8",
             "note": ""
         },
         {
@@ -94,8 +94,8 @@
             "name": "Vue.js-2.x",
             "type": "应用框架",
             "platform": "bilibili",
-            "url": "https://www.bilibili.com/video/BV14k4y117LL",
-            "note": "王红元->李南江"
+            "url": "https://www.bilibili.com/video/BV15741177Eh",
+            "note": "->王红元"
         },
         {
             "icon": "vue",
