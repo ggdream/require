@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "prepush": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "push": "cd dist && git init && git add . && git commit -m '$version' && git remote add origin https://gitee.com/ggdream/ggdream.git && git push -f origin master && start https://gitee.com/ggdream/ggdream/pages"
   },
