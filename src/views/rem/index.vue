@@ -51,11 +51,11 @@
 
       <v-snackbar
         v-model="snackbar"
-        timeout="10000"
+        timeout="3000"
       >
         {{`更新时间： ${date}`}}
         <template v-slot:action>
-          ⛄
+          ⛄🎉
         </template>
       </v-snackbar>
   </div>

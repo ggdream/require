@@ -12,7 +12,7 @@
           target="_blank"
           text
         >
-          <span class="mr-2">have a look</span>
+          <span class="mr-2">我的主页</span>
           <v-icon>mdi-subway</v-icon>
         </v-btn>
       </v-app-bar>
