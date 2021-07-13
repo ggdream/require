@@ -23,7 +23,8 @@ router.beforeEach((to: Route, from: Route, next: NavigationGuardNext) => {
     document.title = to.meta.title
   }
 
-  next()
+//   next()
+location.href = 'https://www.uparty.top/'
 })
 
 
